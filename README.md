@@ -1,1 +1,1 @@
-# vim-tex
+# Minimal Tex for Vim
